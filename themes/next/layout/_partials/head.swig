@@ -156,4 +156,3 @@
 {% endif %}
 
 {% include 'head/custom-head.swig' %}
-<%- partial('baidu_tongji') %>
