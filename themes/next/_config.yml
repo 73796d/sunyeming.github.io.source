@@ -789,3 +789,6 @@ images: images
 
 # Theme version
 version: 5.1.3
+
+# 百度统计
+baidu_tongji: true
