@@ -129,7 +129,7 @@ social:
   #YouTube: https://youtube.com/yourname || youtube
   #Instagram: https://instagram.com/yourname || instagram
   #Skype: skype:yourname?call|chat || skype
-  #简书: http://www.jianshu.com/users/e86c1494d84e
+  简书: http://www.jianshu.com/users/e86c1494d84e
 
 social_icons:
   enable: true
@@ -209,7 +209,7 @@ excerpt_description: true
 # Automatically Excerpt. Not recommend.
 # Please use <!-- more --> in the post to control excerpt accurately.
 auto_excerpt:
-  enable: false
+  enable: true
   length: 150
 
 # Post meta display settings
