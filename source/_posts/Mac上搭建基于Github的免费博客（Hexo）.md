@@ -5,7 +5,7 @@ title: |+
 
 
 date: 2017-11-01 16:08:51
-tags:
+tags: hexo
 ---
 以前曾经用Github搭建过Hexo博客，但是由于我在做持续集成的时候出错，博客没有了。这篇博客作为一个新的开端。[Hexo官网](https://hexo.io/docs/)
 
